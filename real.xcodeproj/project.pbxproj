@@ -10,7 +10,6 @@
 		B1AF8CA8B525F44638D39C63 /* libPods-real.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76C8C276AEC2A7C36BE16AA7 /* libPods-real.a */; };
 		F13AD775238E654400F5A796 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F13AD774238E654400F5A796 /* AppDelegate.m */; };
 		F13AD778238E654400F5A796 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F13AD777238E654400F5A796 /* SceneDelegate.m */; };
-		F13AD77B238E654400F5A796 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F13AD77A238E654400F5A796 /* ViewController.m */; };
 		F13AD77E238E654400F5A796 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F13AD77C238E654400F5A796 /* Main.storyboard */; };
 		F13AD780238E654700F5A796 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F13AD77F238E654700F5A796 /* Assets.xcassets */; };
 		F13AD783238E654700F5A796 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F13AD781238E654700F5A796 /* LaunchScreen.storyboard */; };
@@ -45,8 +44,6 @@
 		F13AD774238E654400F5A796 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		F13AD776238E654400F5A796 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		F13AD777238E654400F5A796 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		F13AD779238E654400F5A796 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		F13AD77A238E654400F5A796 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F13AD77D238E654400F5A796 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F13AD77F238E654700F5A796 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F13AD782238E654700F5A796 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -100,7 +97,6 @@
 				544DB01C91D981D71EF4B605 /* Pods-real.debug.xcconfig */,
 				2205BF20BE309B8A0461FE4A /* Pods-real.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -133,8 +129,6 @@
 				F13AD774238E654400F5A796 /* AppDelegate.m */,
 				F13AD776238E654400F5A796 /* SceneDelegate.h */,
 				F13AD777238E654400F5A796 /* SceneDelegate.m */,
-				F13AD779238E654400F5A796 /* ViewController.h */,
-				F13AD77A238E654400F5A796 /* ViewController.m */,
 				F13AD77C238E654400F5A796 /* Main.storyboard */,
 				F13AD77F238E654700F5A796 /* Assets.xcassets */,
 				F13AD781238E654700F5A796 /* LaunchScreen.storyboard */,
@@ -318,7 +312,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F13AD77B238E654400F5A796 /* ViewController.m in Sources */,
 				F13AD775238E654400F5A796 /* AppDelegate.m in Sources */,
 				F13AD786238E654700F5A796 /* main.m in Sources */,
 				F13AD778238E654400F5A796 /* SceneDelegate.m in Sources */,
