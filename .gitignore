@@ -1,0 +1,10 @@
+real.xcworkspace
+UserInterfaceState.xcuserstate
+real.xcworkspace/
+xcuserdata/
+UserInterface.xcuserstate
+Pods
+.gitignore/.DS_Store
+.DS_Store
+real/.DS_Store
+.DS_Store
